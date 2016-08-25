@@ -9,7 +9,7 @@ Steps:
 
 1. Create GitHub username ([http://github.com](http://github.com)).
 2. Use GitHub username to log into CodeAnywhere ([http://codeanywhere.com](http://codeanywhere.com)). 
-3. Fork this repository into your GitHub account. 
+3. Create a copy of this repository into your GitHub account. 
 4. Respond to the beginning of class questionnaire [https://unc.az1.qualtrics.com/SE/?SID=SV_03dQuGyMQVqXZEF](https://unc.az1.qualtrics.com/SE/?SID=SV_03dQuGyMQVqXZEF). 
 
 ## GitHub username
