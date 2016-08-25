@@ -24,21 +24,14 @@ You can look here for some tips about how to do that: http://docs.codeanywhere.c
 
 We will go over this in class again as well. 
 
-## Fork this repository
+## Create your own version of this repository
 
 If you have arrived at this page, then you should see the GitHub interface in front of you. 
-This is a repo (short for repository). 
+This is a repo (short for repository). Github created a copy of it for you from [this version](https://github.com/eah13/task1-version-control), which is slightle edited from [the original](https://github.com/inls161/task1-version-control)
 
 This is mostly just practice, but I will see it as soon as you have done it, so it lets me know that you have engaged with this task. 
 
-You need to fork this so that there is a tracked copy of it in your GitHub account. 
-This is a way of copying which allows for the system to see how changes and updates to source code propagate, merge, and diverge over time. 
-You will do this with other assignment repositories in the future as well. 
-
-We'll look at this in class. 
-
-For now, all you have to do is click the "Fork" button over in the upper right corner of the page, select your account, and then wait. 
-It will tell you when it is finished. 
+Github Classroom makes a new copy of the repo for you, but you can also create a 'fork' of a repository that allows submitting changes back to the original.  We'll cover this in class. 
 
 ## Questionnaire
 
@@ -46,6 +39,6 @@ Then answer the beginning of class questionnaire.
 
 All you need to do is click the link below and answer all the questions. When you get to the end, your responses will automatically be recorded.  
 
-[https://unc.az1.qualtrics.com/SE/?SID=SV_03dQuGyMQVqXZEF](https://unc.az1.qualtrics.com/SE/?SID=SV_03dQuGyMQVqXZEF)
+[https://docs.google.com/forms/d/e/1FAIpQLSewlKvyR6e2Qekn_iiPC0Ly4SB0WWlmKIZ-EvyQ_x14VknzDQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSewlKvyR6e2Qekn_iiPC0Ly4SB0WWlmKIZ-EvyQ_x14VknzDQ/viewform)
 
 And that's it!
