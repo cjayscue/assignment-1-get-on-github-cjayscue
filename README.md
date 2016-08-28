@@ -2,9 +2,6 @@
 
 This assignment is pretty simple. 
 It has 4 parts, most of which you will likely have done in class. 
-
-Please complete these by Thursday night (23 June 2016) at the latest. 
-
 Steps: 
 
 1. Create GitHub username ([http://github.com](http://github.com)).
@@ -17,17 +14,17 @@ Steps:
 If you were in class the other day, you set up a GitHub username. 
 Your first assignment is basically that. 
 
-## CodeAnywhere
+## Cloud9
 
-Now that you have it, you'll need to log into CodeAnywhere and set up an HTML5 container that runs Ubuntu. 
-You can look here for some tips about how to do that: http://docs.codeanywhere.com/connections/github.html
+Now that you have it, you'll need to log into Cloud9 and set up an Ruby workspace. 
+If you're interested, check out all of the Cloud9 templates here: https://c9.io/community/templates
 
 We will go over this in class again as well. 
 
 ## Create your own version of this repository
 
 If you have arrived at this page, then you should see the GitHub interface in front of you. 
-This is a repo (short for repository). Github created a copy of it for you from [this version](https://github.com/eah13/task1-version-control), which is slightle edited from [the original](https://github.com/inls161/task1-version-control)
+This is a repo (short for repository). Github created a copy of it for you from [this version](https://github.com/eah13/task1-version-control), which is slightly edited from [the original](https://github.com/inls161/task1-version-control)
 
 This is mostly just practice, but I will see it as soon as you have done it, so it lets me know that you have engaged with this task. 
 
